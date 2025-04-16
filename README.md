@@ -1,6 +1,7 @@
 # Bollywood_Films_Analysis
 🎬 A complete exploratory data analysis (EDA) project on Indian movies to uncover trends in revenue based on genre, cast, crew, and production features.
 
+<img src="https://github.com/rpjinu/Bollywood_Films_Analysis/blob/main/Bollywood_img.png">
 # 🎬 Bollywood Movie Revenue Analysis
 
 Welcome to the **Movie Revenue EDA Project** — an insightful data analysis project exploring the financial performance of Indian films based on features like genre, cast, director, release timing, and more! 📊✨
